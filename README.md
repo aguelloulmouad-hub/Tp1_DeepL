@@ -32,7 +32,7 @@ Les principaux thèmes abordés sont :
 
 ```bash
 pip install torch scikit-learn pandas numpy matplotlib seaborn scipy
-
+```
 ## Author
 
 Aguelloul Mouad
