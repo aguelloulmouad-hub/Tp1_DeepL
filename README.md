@@ -30,8 +30,9 @@ Les principaux thèmes abordés sont :
 - Python 3.8 ou supérieur
 - Les bibliothèques suivantes (installables via `pip`) :
 
+```bash
+pip install torch scikit-learn pandas numpy matplotlib seaborn scipy
+
 ## Author
 
 Aguelloul Mouad
-```bash
-pip install torch scikit-learn pandas numpy matplotlib seaborn scipy
